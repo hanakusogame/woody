@@ -1,6 +1,6 @@
 # しきつめパズル
 
-**typescript-game-sample**はAcashicEngineとTypeScriptにより作られたニコニコ生放送向けゲームです。
+**しきつめパズル**はAcashicEngineとTypeScriptにより作られたニコニコ生放送向けゲームです。
 
 ## 利用方法
 
